@@ -1,4 +1,4 @@
-# GrizzlyCraft
+# GrizzlyCraft || GrizzlyCraft MOD
 
 ## 请到issues提交在服务器中遇到的问题
 * 遇到的BUG
