@@ -1,7 +1,7 @@
 # GrizzlyCraft || GrizzlyCraft MOD
 
 ### Introduction
-现有MC1.17.1, 1.16.5 和 Valheim英灵神殿服务器
+现有MC1.18.1, 1.16.5 和 Valheim英灵神殿服务器
 
 ## 请到issues提交在服务器中遇到的问题
 * 遇到的BUG
